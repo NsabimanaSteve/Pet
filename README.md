@@ -1,1 +1,1 @@
-# Code that diisplay pet name. age. weight 
+# Code that display pet name,age,weight 
